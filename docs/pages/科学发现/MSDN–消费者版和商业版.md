@@ -1,4 +1,17 @@
-
+---
+title: MSDN–消费者版和商业版
+date: 2019-08-16 08:25:03
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 奈飞客户端--安卓
+categories: 科学发现
+tags:
+  - win
+  - 系统
+---
 
 ## 二者区别
 

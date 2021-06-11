@@ -1,4 +1,16 @@
-
+---
+title: vscode的安装及插件
+date: 2020-03-28 08:25:07
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: vscode，编辑器中的大佬，高端大气上档次还免费！
+categories: 软件
+tags:
+  - 文本编辑器
+---
 
 ## 编辑器中大佬
 
@@ -23,8 +35,8 @@ Vscode 是一款开源的跨平台编辑器。默认情况下，vscode 使用的
 
 ### 以安装插件
 
-
-
+<details>
+<summary><b>点击查看文件内容</b></summary>
 
 #### Auto fileName
 
@@ -88,7 +100,7 @@ Vscode 是一款开源的跨平台编辑器。默认情况下，vscode 使用的
 
 > 浏览器运行 html 文件
 
-
+</details>
 
 ## 常见问题
 

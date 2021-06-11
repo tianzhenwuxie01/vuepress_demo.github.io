@@ -1,4 +1,18 @@
-
+---
+title: 色彩配置文件 icc-0514
+date: 2019-08-16 08:25:09
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: vscode，编辑器中的大佬，高端大气上档次还免费！
+categories: 设计
+tags:
+  - 设计
+  - 印刷
+  - cmyk
+---
 
 #### 区别
 

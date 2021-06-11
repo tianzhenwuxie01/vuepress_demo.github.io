@@ -1,4 +1,16 @@
-
+---
+title: 一款APP从设计到切图标注适配全记录
+date: 2020-05-29 08:25:08
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: vscode，编辑器中的大佬，高端大气上档次还免费！
+categories: 设计
+tags:
+  - 设计
+---
 
 原文备份：[原文地址](https://mp.weixin.qq.com/s?__biz=MzI2Mzc0Nzk2OQ==&mid=2247485815&idx=1&sn=1de84cc1c4104dc179c42567423e895e&chksm=eab66999ddc1e08fe712a229b9223a8876efccbf0e4b75a355eab918ca38204cf09600be6999&scene=21#wechat_redirect)
 

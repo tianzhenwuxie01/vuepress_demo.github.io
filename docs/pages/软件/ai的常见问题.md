@@ -1,4 +1,17 @@
-
+---
+title: ai的常见问题
+date: 2020-04-21 10:25:04
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: 使用ai时候遇到的乱七八糟的问题
+categories: 软件
+tags:
+  - ai
+  - 设计
+---
 
 ## AI 软件在编辑文字时结尾出现#，选择不了无法取消
 

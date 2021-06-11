@@ -1,4 +1,16 @@
-
+---
+title: sublime插件的安装
+date: 2019-08-16 08:25:06
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: sublime的语言插件屏蔽更新，快捷键的使用
+categories: 软件
+tags:
+  - 文本编辑器
+---
 
 ### 关闭更新提示
 

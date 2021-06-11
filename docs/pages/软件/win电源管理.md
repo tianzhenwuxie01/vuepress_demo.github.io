@@ -1,4 +1,17 @@
-
+---
+title: win电源管理
+date: 2020-02-12 18:25:04
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: win缺失电源管理模式，添加平衡，高性能，卓越
+categories: 软件
+tags:
+  - 系统
+  - win
+---
 
 ### 当 win 电源管理里没有高性能等选项怎么办？
 

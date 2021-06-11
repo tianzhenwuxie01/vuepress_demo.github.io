@@ -1,4 +1,14 @@
-
+---
+title: 常用shell指令
+date: 2019-08-16 08:25:25
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+---
 
 | 指令          | 说明               | column3   |
 | ------------- | ------------------ | --------- |

@@ -1,4 +1,17 @@
-
+---
+title: 个人导航，html使用方式
+date: 2019-08-17 08:25:23
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+tags:
+  - 阿里icon
+  - 导航网页
+---
 
 ### icon 图标添加
 

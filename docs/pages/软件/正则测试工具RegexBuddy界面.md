@@ -1,4 +1,16 @@
-
+---
+title: 正则测试工具RegexBuddy界面
+date: 2020-05-07 14:49:04
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: 正则测试工具RegexBuddy界面.md
+categories: 软件
+tags:
+  - 正则表达式
+---
 
 ### 正则测试工具 RegexBuddy 界面翻译
 

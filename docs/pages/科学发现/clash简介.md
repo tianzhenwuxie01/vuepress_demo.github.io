@@ -1,4 +1,17 @@
-
+---
+title: clash简介
+date: 2020-03-22 17:25:00
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+top: true #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 奈飞客户端--安卓
+categories: 科学发现
+tags:
+  - 科学上网
+  - clash
+---
 
 [clash 相关项目连接](https://remuxo.gitee.io/2020/04/01/ke-xue-fa-xian/clash-xiang-guan-xiang-mu-git-lian-jie/)
 
@@ -22,8 +35,8 @@ clash(r)下载地址:
 
 ### clash 配置文件案例--D 大
 
-
-
+<details>
+<summary><b style="color:#B47CFD">点击查看文件内容</b></summary>
 
 ``` yaml
 # Port of HTTP(S) proxy server on the local end
@@ -366,7 +379,7 @@ rules:
   - MATCH,auto
 ```
 
-
+</details>
 
 ### clash 规则参数
 
@@ -382,8 +395,8 @@ rules:
 - MATCH：全匹配（一般放在最后）
 - RULE-SET: Rule Provider
 
-
-
+<details>
+<summary><b style="color:#B47CFD">详细参数解释</b></summary>
 
 ``` yaml
 DOMAIN：DOMAIN,www.google.com,policy仅www.google.com前往的路线policy。
@@ -409,7 +422,7 @@ IP–CIDR表示指定ip： 比如：13.105.218.23/32，表示匹配整个ip
   - RULE-SET,🎫 全球直连_6475375759347264633_domain,🎫 全球直连
 ```
 
-
+</details>
 
 > [网络和 IP 地址计算器](https://tool.chinaz.com/tools/subnetmask) >[参考博客](<https://hongwan.xyz/2019/11/28/clash%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E6%90%AD%E9%85%8DProxy%20SwitchyOmega)/>) >[D 大 wiki](https://github.com/Dreamacro/clash/wiki/configuration) >[clash 文档-d 大钦定](https://lancellc.gitbook.io/clash/clash-config-file/script)
 
@@ -442,8 +455,8 @@ Clash 共有三种工作模式：
 > (cfw 继 0.11.0 正式版后取消`config.yaml`文件中`cfw-xxx`参数支持,改为`cfw-settings`控制)
 > `cfw-settings`位置: `C:\Users\26638\.config\clash`
 
-
-
+<details>
+<summary><b style="color:#B47CFD">config.yaml(0.11.0以前)</b></summary>
 
 ``` yaml
 #port: 7890
@@ -565,10 +578,10 @@ Rule:
 #       cwd: C:\bark-helper # 子进程工作目录
 ```
 
+</details>
 
-
-
-
+<details>
+<summary><b style="color:#B47CFD">cfw-settings</b></summary>
 
 ``` yaml
 mixinText: >-
@@ -643,7 +656,7 @@ headersText: |
 showNotifications: true
 ```
 
-
+</details>
 
 #### Profiles/xxxx.yaml
 
@@ -662,8 +675,8 @@ showNotifications: true
 - core-1.0 正式版之后取消`experimental`参数,`interface-name`参数向前缩进一位
 - [具体见 D 大 1.0 更新日志](https://github.com/Dreamacro/clash/wiki/Breaking-Changes-in-1.0.0)
 
-
-
+<details>
+<summary><b style="color:#B47CFD">0.11.0之前tap网卡参数(fake-ip为例)</b></summary>
 
 ``` yaml
 port: 7890
@@ -696,7 +709,7 @@ dns:
     interface-name: WLAN #自己的网卡名称
 ```
 
-
+</details>
 
 > 配置文件里`cfw-xxx`这种设置才是 CFW 的，其他都是 Clash 自己的(cfw0.11.0 后抛弃`cfw-xxx`)具体见`cfw-settings`
 > 所以 dns 设置是 Clash 的，`listen`只是一个设置，表示 DNS 服务器要不要对外提供服务
@@ -799,8 +812,8 @@ experimental: #此参数core1.0/cfw0.11.0后抛弃
 
 #### safebrowsing.googleapis.com 偷跑流量（特指 Safari 浏览器
 
-
-
+<details>
+<summary><b style="color:#B47CFD">cfw-settings</b></summary>
 
 - 进程`com.apple.Safari.SafeBrowsing.Service`
 - 访问地址`safebrowsing.googleapis.com`
@@ -831,12 +844,12 @@ experimental: #此参数core1.0/cfw0.11.0后抛弃
 > 参考链接:[https://blog.dun.im/dun/macos-ios-traffic.html](https://blog.dun.im/dun/macos-ios-traffic.html)
 > 参考链接:[https://www.jishuwen.com/d/2LUm/zh-hk](https://www.jishuwen.com/d/2LUm/zh-hk)
 
-
+</details>
 
 #### 来自 clashx 的报错
 
-
-
+<details>
+<summary><b style="color:#B47CFD">cfw-settings</b></summary>
 
 ![](https://cdn.jsdelivr.net/gh/tianzhenwuxie01/gitpicgo/img/20200524174611.png)
 
@@ -844,7 +857,7 @@ experimental: #此参数core1.0/cfw0.11.0后抛弃
 
 > 参考链接:[https://github.com/paradiseduo/ClashXR/issues/5](https://github.com/paradiseduo/ClashXR/issues/5)
 
-
+</details>
 
 #### 奇葩 bug
 

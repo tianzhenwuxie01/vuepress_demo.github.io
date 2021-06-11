@@ -1,4 +1,17 @@
-
+---
+title: clash相关项目链接
+date: 2020-04-1 17:25:00
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+top: true #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 奈飞客户端--安卓
+categories: 科学发现
+tags:
+  - 科学上网
+  - clash
+---
 
 [clash 简介](https://remuxo.gitee.io/2020/03/22/ke-xue-fa-xian/clash-jian-jie/)
 

@@ -10,19 +10,26 @@ module.exports = {
     },
     serviceWorker: true,
     themeConfig: {    
-        logo: '/egg.png',
+        logo: '/egg.png',  //网页顶端导航栏左上角的图标
         lastUpdated: 'lastUpdate', // string | boolean
         nav: [
-            { text: '首页', link: '/' },
+            { text: '首页', link: '/pages/设计/APP从设计到切图标注适配.md' },
             {
-                text: '分类',
-                ariaLabel: '分类',
+                text: '分类',        //默认显示        
+                ariaLabel: '分类',  //用于识别的label
                 items: [
-                    { text: '文章', link: '/pages/folder1/test1.md' },
-                    { text: '琐碎', link: '/pages/folder2/test4.md' },
+                    { text: '科学发现', link: '/pages/科学发现/clash相关项目git链接.md' },
+                    { text: '设计', link: '/pages/设计/APP从设计到切图标注适配.md' },
+                    { text: '软件', link: '/pages/软件/psd文件过大(图片原始数据冗余).md' },
+                    { text: '学习', link: '/pages/学习/python01.md' },
+                    { text: '娱乐', link: '/pages/娱乐/gta5-nat介绍.md' },
+                    { text: 'github', link: '/pages/github/git简介.md' },
+                    //点击标签会跳转至link的markdown文件生成的页面
+                    { text: 'hexo', link: '/pages/hexo/hexo安装.md' },
+                    { text: 'linux', link: '/pages/linux/linux系统文件夹.md' },
                 ]
             },
-            { text: '功能演示', link: '/pages/folder1/test3.md' },
-            { text: 'Github', link: 'https://github.com/dwanda' },
+            //{ text: '功能演示', link: '/pages/folder1/test3.md' },
+            { text: 'Github', link: 'https://github.com/tianzhenwuxie01/vuepress_demo.github.io' },
         ],
         sidebar: [

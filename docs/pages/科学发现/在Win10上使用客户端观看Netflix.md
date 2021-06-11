@@ -1,4 +1,18 @@
-
+---
+title: 在Win10上使用客户端观看Netflix
+date: 2020-02-13 18:05:04
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: 在Win10上使用客户端观看Netflix
+categories: 软件
+tags:
+  - 奈飞
+  - 科学上网
+  - win
+---
 
 ### 1.如何下载客户端
 

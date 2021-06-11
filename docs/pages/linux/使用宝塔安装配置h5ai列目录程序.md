@@ -1,4 +1,17 @@
-
+---
+title: 使用宝塔安装配置 h5ai 列目录程序
+date: 2020-02-05 08:25:26
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+tags:
+  - vps
+  - 宝塔
+---
 
 > 段落引用 h5ai 是一款基于 PHP 的现代化的 WEB 列目录程序，h5ai 这个名字的含义是 HTML5 Apache Index 的缩写，顾名思义作者最开始是将这个程序与 Apache 相结合的，但随着多个版本的更新，现在已经可以支持更多的 WEB 服务器了，比如：Nginx。
 

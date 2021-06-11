@@ -1,17 +1,17 @@
 ---
 home: true
 heroImage: /egg.png
-heroText: 裂泉的前端记录
-tagline: 一点一滴都是进步
+heroText: 0514的记录
+tagline: ....没啥好说的的....
 actionText: 马上进入 →
-actionLink: /pages/folder1/test1.md
+actionLink: /pages/软件/scoop的安装.md
 features:
-- title: 01
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue02
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 03
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 首先
+  details: 这是用 Markdown 写作的。
+- title: 其次
+  details: 享受 VuePress + DocSearch。腾讯的静态托管
+- title: 最后
+  details: 没有最后。。。
 ---
 <!-- 
 <ClientOnly>

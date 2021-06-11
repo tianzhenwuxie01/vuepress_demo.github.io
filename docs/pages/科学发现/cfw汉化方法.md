@@ -1,4 +1,17 @@
-
+---
+title: cfw汉化方法
+date: 2020-08-24 10:25:00
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 奈飞客户端--安卓
+categories: 科学发现
+tags:
+  - clash
+  - 科学上网
+---
 
 本文记录一下 Clash for Windows 的汉化过程，其实是比较简单的。Clash 的文字相关配置都在`Clash for Windows\resources\app.asar`中，用 node.js 将其解包，修改为中文后，再重新打包即可。
 

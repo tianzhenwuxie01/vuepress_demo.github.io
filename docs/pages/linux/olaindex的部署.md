@@ -1,4 +1,18 @@
-
+---
+title: olaindex的部署
+date: 2019-08-16 08:29:29
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+tags:
+  - vps
+  - OneDrive
+  - olaindex
+---
 
 ### 1 准备工作
 
@@ -76,8 +90,8 @@ chown -R www:www * # this 'www' refer to the serve user group
 composer run install-app # installation app
 ```
 
-
-
+<details>
+<summary><b style="color:#B47CFD">老版配置及其常见错误</b></summary>
 
 ```
 cd /www/wwwroot/你的域名
@@ -126,7 +140,7 @@ chmod 777 storage/app/config.json
 
 ![](https://cdn.jsdelivr.net/gh/tianzhenwuxie01/gitpicgo/img/20200217145857.png)
 
-
+</details>
 
 打开网站设置，在网站目录中，把运行目录改成 / public，关闭 “防跨站攻击 (open_basedir)”，然后重启 php7.2。
 

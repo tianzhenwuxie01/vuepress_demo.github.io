@@ -1,4 +1,16 @@
-
+---
+title: tg电报的数据中心
+date: 2020-07-20 09:25:00
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 奈飞客户端--安卓
+categories: 软件
+tags:
+  - 软件
+---
 
 ### 电报的数据中心
 

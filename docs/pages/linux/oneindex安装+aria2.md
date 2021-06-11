@@ -1,4 +1,18 @@
-
+---
+title: oneindex+aria2安装
+date: 2019-08-16 08:25:30
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+tags:
+  - vps
+  - oneindex
+  - OneDrive
+---
 
 VPS 安装宝塔面板、oneindex、Aria2 & AriaNg，自动上传到 onedrive，并利用 onedrive 来做下载和播放站，可以分享播放链接，充当媒体分享站。
 重装：删除 oneindex 文件夹下文件重新安装
@@ -232,4 +246,18 @@ echo "on-download-complete=/root/.aria2/oneindexup.sh" >>/root/.aria2/aria2.conf
 
 `service aria2 restart`
 
+---
 
+### 打完收工
+
+来试验一下  
+![](https://pic-1252861294.cos.ap-beijing.myqcloud.com/oneindex/7/1.png)  
+`magnet:?xt=urn:btih:WTPLPUEW5YSH2J2U4H6HTHGVN6QYVZQS`  
+![](https://pic-1252861294.cos.ap-beijing.myqcloud.com/oneindex/7/2.png)  
+会先下载种子，然后自动下载种子里面的电影  
+![](https://pic-1252861294.cos.ap-beijing.myqcloud.com/oneindex/7/3.png)  
+![](https://pic-1252861294.cos.ap-beijing.myqcloud.com/oneindex/7/4.png)  
+速度受你的 VPS 的网速，还有你下载的资源做种人数的影响，一般速度都能跑很快，等它下载完，看看是否会自动上传到 onedrive 里，可以直接在我们 oneindex 的网站里面看到，它自动上传了。  
+![](https://pic-1252861294.cos.ap-beijing.myqcloud.com/oneindex/7/5.png)
+
+---

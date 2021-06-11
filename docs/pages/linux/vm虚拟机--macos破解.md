@@ -1,4 +1,16 @@
-
+---
+title: vm虚拟机--macos破解
+date: 2020-08-24 09:25:30
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+tags:
+  - vm
+---
 
 VMware Workstation 虚拟机安装 macOS 解锁工具.  
 更新 Unlocker 支持 VMware Workstation 15.5  

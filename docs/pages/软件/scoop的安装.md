@@ -1,4 +1,16 @@
-
+---
+title: scoop的安装
+date: 2020-08-1 20:25:07
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: Windows上体验最好的「包管理器」
+categories: 软件
+tags:
+  - 包管理
+---
 
 ### 安装
 

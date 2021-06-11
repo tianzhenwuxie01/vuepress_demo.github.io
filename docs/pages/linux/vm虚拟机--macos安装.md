@@ -1,4 +1,16 @@
-
+---
+title: vm虚拟机--macos安装
+date: 2020-08-24 08:25:30
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 在我的个人导航添加使用阿里icon图标/添加后缀小标志/添加网页搜索
+categories: linux
+tags:
+  - vm
+---
 
 macos unlocker for vmware(vm 虚拟机苹果破解补丁) 是一款专为针对 vm 虚拟机进行系统解锁，支持 vmware15.0 版本，安装黑苹果补丁后，就可以在虚拟机中安装运行 Mac 系统了，下面带来了 unlocker300 for vmware 15 解锁安装 MAC OS X 10.14 详细图文教程
 

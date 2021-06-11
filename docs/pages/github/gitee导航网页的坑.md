@@ -1,4 +1,17 @@
-
+---
+title: gitee导航网页的坑
+date: 2020-02-15 19:57:18
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+summary: gitee导航网页的坑
+categories: github
+tags:
+  - github
+  - gitee
+---
 
 #### 为导航添加彩带背景，蜘蛛线条，鼠标点击动画
 

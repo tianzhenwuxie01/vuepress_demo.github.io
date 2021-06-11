@@ -1,4 +1,17 @@
-
+---
+title: Chrome 强制播放Netflix 1080p高画质方法
+date: 2019-08-16 08:25:02
+author: 0514
+#img: https://one.0514.ink/view/2019/12/21/NMr02MyX/57d172326e39dfbf60fcdb795a08e758.jpg
+#top: true   #(置顶)
+#cover: true    #（轮播）
+#coverImg: https://one.0514.ink/view/2019/12/21/WEQNERiF/IMG_20180705_173106.jpg
+#summary: 奈飞客户端--安卓
+categories: 科学发现
+tags:
+  - 科学上网
+  - 奈飞
+---
 
 虽然 [Netflix](https://www.0514.ink/?page_id=12?url=https://www.netflix.com)   在台推出已经有一段时间，可以同时支援 Windows、Mac、Linux 平台，相信不少电影和影剧迷到目前碰到最大问题莫非就是 Netflix 想观看高解析度 1080p，是无法在 Chrome、Firefox 、Opera 浏览器上观看，最高也只能有 720p，不过这有什么办法可以解决呢？除了换浏览器外，如果是坚持想使用 Chrome 来看 Netflix 1080p 解析度电影该怎么版？这篇教学就要来教大家如何突破这限制。
 
@@ -10,7 +23,13 @@ Netflix 是没办法让我们手动去调整要观看的画质，这种后果就
 
 ## 为什么 Chrome、Firefox 无法支援？
 
+---
 
+国外有传言主因是 Netflix 采用 1080p DRM 认证，是需要各家浏览器开发者另外透过电影协会认证，然而 Chrome、Firefox 没有申请此认证，导致无法支援 1080p 解析度。
+
+## Netflix 支援解析度
+
+---
 
 - Google Chrome
   - Windows、Mac 与 Linux 可达 720p
@@ -27,7 +46,17 @@ Netflix 是没办法让我们手动去调整要观看的画质，这种后果就
 
 ## 扩充功能
 
+---
 
+适用浏览器：Google Chrome
+
+Chrome 线上商店下载：[Super Netflix](https://www.0514.ink/?page_id=12?url=https://chrome.google.com/webstore/detail/super-netflix/iakpdiefpdniabbekcbofaanjcpjkloe)｜   [Netflix 1080p](https://www.0514.ink/?page_id=12?url=https://chrome.google.com/webstore/detail/netflix-1080p/cankofcoohmbhfpcemhmaaeennfbnmgp)
+
+相信很多人好奇，为什么装 Super Netflix 就可以控制解析度选单，但为什么还要另外装 Netflix 1080p 这个扩充？最主要是因为 Super Netflix 开发发者被 Netflix 警告，告诉他：「请不要做出这种功能，而且这功能是不合法行为。」导致 Super Netflix 开发发者不得不将这项调整功能隐藏起来，改由透过 Netflix 1080p 才能够解开此功能选项，并且可以透过快捷键 Ctrl + Shift + Alt + S 来叫出。
+
+## 操作教学
+
+---
 
 ### 步骤 1
 

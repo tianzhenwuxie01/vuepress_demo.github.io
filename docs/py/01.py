@@ -63,12 +63,11 @@ def mulus(q1,q2):
     mulu = '''                    {{
                         title: '{0}',   // 必要的
                         collapsable: true, // 可选的, 默认值是 true,
-                        sidebarDepth: 2,    // 可选的, 默认值是 1
+                        sidebarDepth: 1,    // 可选的, 默认值是 1
                         children: [
 {1}
                         ]
-                    }},
-    '''.format(q1,q2)
+                    }},'''.format(q1,q2)
     return(mulu)
 
 
@@ -110,12 +109,12 @@ for key,value in ziwfjm_new.items():
     # list转换为str 用换行隔开
     linui3 = '\n'.join(linui2)[:-1]
     linui4.append(mulus(key,linui3))
-txt = '\n'.join(linui4)[:-1]
+txt = '\n'+'\n'.join(linui4)[:-1]
 # print(txt)
 
 a = wfjm(r'E:\360\tianzhenwuxie01\vuepress\docs\py\config1.txt')
 a2 = wfjm(r'E:\360\tianzhenwuxie01\vuepress\docs\py\config2.txt')
-a3 = wfjm(r'E:\360\tianzhenwuxie01\vuepress\docs\py\config3.txt')
+a3 = wfjm(r'E:\360\tianzhenwuxie01\vuepress\docs\.vuepress\config.js')
 a3.q2 = 'w+'
 a3.q3 = a.duqu()+txt+a2.duqu()
 a3.xieru()
