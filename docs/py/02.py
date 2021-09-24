@@ -25,7 +25,6 @@ def run_shell(shell):
     return cmd.returncode
 
 pd = input('是否同步腾讯静态：\n1同步：\n')
-#tcb login --apiKeyId AKIDFJ7fwwf8KErEKAj01lEQM0NTJs99sLXS --apiKey f3A0Zrsb3E9n9E3bsseAPM2ScV7SWJo8
 if pd == '1':
     ## 删除
     daohang_envId = 'hello-cloudbase-0g9atdj20fc4e1e8'
