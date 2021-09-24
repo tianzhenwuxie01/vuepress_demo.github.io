@@ -19,8 +19,13 @@ tags:
 
 ### 1.下载 Clash for windows（CFW）
 
-[Github 下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases) / [官方版使用文档](https://docs.cfw.lbyczf.com/)
+[Github 下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
+[官方版使用文档](https://docs.cfw.lbyczf.com/)
+
 [另一个文档包含 script,Rule Provider](https://lancellc.gitbook.io/clash/clash-config-file/script)
+
+[d大wiki](https://github.com/Dreamacro/clash/wiki/configuration)
 
 ### 2.clash 内核原版
 

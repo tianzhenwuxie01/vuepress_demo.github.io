@@ -1,6 +1,7 @@
 module.exports = {
     title: 'remuxo首页', // 显示在左上角的网页名称以及首页在浏览器标签显示的title名称
     description: 'remuxo记录', // meta 中的描述文字，用于SEO
+    plugins: ['fulltext-search'],
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['link', { rel: 'icon', href: '/egg.png' }],  //浏览器的标签栏的网页图标
@@ -58,7 +59,8 @@ module.exports = {
                             ['/pages/hexo/hexo创建页面.md', 'hexo创建页面'],
                             ['/pages/hexo/hexo安装.md', 'hexo安装'],
                             ['/pages/hexo/hexo安装走过的坑.md', 'hexo安装走过的坑'],
-                            ['/pages/hexo/hexo常用指令.md', 'hexo常用指令']
+                            ['/pages/hexo/hexo常用指令.md', 'hexo常用指令'],
+                            ['/pages/hexo/vuepress.md', 'vuepress']
                         ]
                     },
                     {
@@ -66,9 +68,12 @@ module.exports = {
                         collapsable: true, // 可选的, 默认值是 true,
                         sidebarDepth: 1,    // 可选的, 默认值是 1
                         children: [
+                            ['/pages/linux/adb命令.md', 'adb命令'],
                             ['/pages/linux/linux系统文件夹.md', 'linux系统文件夹'],
                             ['/pages/linux/olaindex的部署.md', 'olaindex的部署'],
                             ['/pages/linux/oneindex安装+aria2.md', 'oneindex安装+aria2'],
+                            ['/pages/linux/pm2守护程序安装.md', 'pm2守护程序安装'],
+                            ['/pages/linux/rss获取.md', 'rss获取'],
                             ['/pages/linux/vm虚拟机--macos安装.md', 'vm虚拟机--macos安装'],
                             ['/pages/linux/vm虚拟机--macos破解.md', 'vm虚拟机--macos破解'],
                             ['/pages/linux/一个好用的OneDrive网盘上传工具.md', '一个好用的OneDrive网盘上传工具'],
@@ -106,6 +111,7 @@ module.exports = {
                             ['/pages/学习/Python 多进程运行-Multiprocessing 基础教程 1.md', 'Python 多进程运行-Multiprocessing 基础教程 1'],
                             ['/pages/学习/Python 多进程运行-Multiprocessing 基础教程 2.md', 'Python 多进程运行-Multiprocessing 基础教程 2'],
                             ['/pages/学习/Python 多进程运行-Multiprocessing 基础教程 3.md', 'Python 多进程运行-Multiprocessing 基础教程 3'],
+                            ['/pages/学习/python-win桌面自动化.md', 'python-win桌面自动化'],
                             ['/pages/学习/python01--新建复制移动读取写入.md', 'python01--新建复制移动读取写入'],
                             ['/pages/学习/python02--基础.md', 'python02--基础'],
                             ['/pages/学习/python03--正则.md', 'python03--正则'],
@@ -175,6 +181,7 @@ module.exports = {
                         sidebarDepth: 1,    // 可选的, 默认值是 1
                         children: [
                             ['/pages/软件/ai的常见问题.md', 'ai的常见问题'],
+                            ['/pages/软件/autoj.md', 'autoj'],
                             ['/pages/软件/cad的安装-2012.md', 'cad的安装-2012'],
                             ['/pages/软件/PotPlayer的设置备份.md', 'PotPlayer的设置备份'],
                             ['/pages/软件/psd文件过大-图片原始数据冗余.md', 'psd文件过大-图片原始数据冗余'],

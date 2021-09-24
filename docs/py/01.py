@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+'''
+生成目录
+'''
 import os
 import yaml
 from ruamel import yaml
